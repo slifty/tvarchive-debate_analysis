@@ -1,0 +1,6 @@
+config.php
+videos/*
+!videos/.gitkeep
+results/*
+!results/.gitkeep
+old_experiments/*
